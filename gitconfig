@@ -50,4 +50,5 @@
 [pull]
   rebase = false
 [user]
-	name = Doug Barr douglas.barr01@gmail.com
+	name = Doug Barr
+	email = douglas.barr01@gmail.com
